@@ -5,8 +5,7 @@ def add(a,b):
     print("this message for merging code from another branch")
     print("this message from khaldoun")
     print("conflict")
-    print("fork")
-
+    print("yo ho")
     return a+b+c
    
    
