@@ -1,4 +1,5 @@
-clrdef add(a,b):
+def add(a,b):
+    b = 80
     c = int(input("input num "))
     print(c)
     print(a,b,c)
