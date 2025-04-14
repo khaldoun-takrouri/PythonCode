@@ -2,6 +2,7 @@ def add(a,b):
     h= 90
     b = 80
     f= 90
+    f=987
     c = int(input("input num "))
     print(c)
     print(a,b,c)
