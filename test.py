@@ -1,5 +1,6 @@
-def add(a,b):
+clrdef add(a,b):
     c = int(input("input num "))
+    print(c)
     return a+b+c
 
 
