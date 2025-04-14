@@ -1,4 +1,5 @@
 def add(a,b):
+    h= 90
     b = 80
     c = int(input("input num "))
     print(c)
