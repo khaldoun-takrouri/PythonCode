@@ -12,7 +12,7 @@ def add(a,b):
    
 
 print(add(4,9))    
-
+print("kol")
 
 def printName(first,mid,last,age=7):
     print(f"your name is {first} {mid} {last} your age is {age}")
