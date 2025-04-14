@@ -2,6 +2,8 @@ clrdef add(a,b):
     c = int(input("input num "))
     print(c)
     print(a,b,c)
+    print("this message for merging code from another branch")
+
     return a+b+c
 
 
