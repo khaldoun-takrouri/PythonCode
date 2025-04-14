@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# new new new
-
-# new new new new
-
-=======
->>>>>>> parent of 38b8711 (new new new)
 def add(a,b):
     c = int(input("input num "))
     return a+b+c
