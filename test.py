@@ -1,5 +1,6 @@
 def add(a,b):
     b = 80
+    f= 90
     c = int(input("input num "))
     print(c)
     print(a,b,c)
